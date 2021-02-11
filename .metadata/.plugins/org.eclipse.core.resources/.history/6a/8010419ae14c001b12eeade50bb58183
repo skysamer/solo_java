@@ -1,0 +1,22 @@
+package ch6;
+
+import java.util.Arrays;
+
+public class Exercise6_23 {
+	
+	static int max(int[] arr) {
+		
+	}
+
+	public static void main(String[] args) {
+		int[] data= {3, 2, 9, 4, 7};
+		
+		System.out.println(Arrays.toString(data));
+		
+		System.out.printf("최댓값: %d", max(data));
+		System.out.printf("최댓값: %d", max(null));
+		System.out.printf("최댓값: %d", max(new int[] {}));
+
+	}
+
+}

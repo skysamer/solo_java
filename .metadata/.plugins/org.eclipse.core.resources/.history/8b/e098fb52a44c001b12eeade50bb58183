@@ -1,0 +1,12 @@
+package ch6;
+
+public class BlockTest {
+	static {
+		System.out.println("static {  }");
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}
