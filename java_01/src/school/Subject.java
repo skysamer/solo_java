@@ -54,10 +54,5 @@ public class Subject {
 	public void register(Student student) {
 		studentList.add(student);
 	}
-	
-	
-	
-	
-	
 
 }

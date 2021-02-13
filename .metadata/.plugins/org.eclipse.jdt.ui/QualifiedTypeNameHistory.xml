@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.sql.Date"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="ch7.SingletonTest"/>
 <fullyQualifiedTypeName name="ch7.Car"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="ch7.FireEngine"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="grade.BasicEvaluation"/>
 <fullyQualifiedTypeName name="grade.MajorEvaluation"/>
 <fullyQualifiedTypeName name="utils.Define"/>
+<fullyQualifiedTypeName name="school.School"/>
+<fullyQualifiedTypeName name="school.Subject"/>
+<fullyQualifiedTypeName name="school.report.GenerateGradeReport"/>
 </qualifiedTypeNameHistroy>
